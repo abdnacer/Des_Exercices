@@ -28,6 +28,9 @@ body{
 .part1 span{
   color: var(--Soft-violet);
 }
+.part1 p{
+  color: var(--Slightly);
+}
 
 .partfirst{
   padding: 60px;
